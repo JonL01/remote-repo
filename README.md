@@ -1,2 +1,3 @@
 # remote-repo
 for learning git
+this is a adding for test local repo...
